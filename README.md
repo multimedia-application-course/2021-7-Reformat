@@ -19,6 +19,10 @@
 
 需事先安装pillow、tkinter、PyMuPDF、pydub库，安装[ffmpeg](http://ffmpeg.org/)并配置好环境变量
 
+## 演示视频
+
+演示视频请查看Release中的video.7z文件
+
 ## 测试截图
 ![](test/capture_20210626202708038.bmp)
 
